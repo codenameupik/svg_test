@@ -6,7 +6,7 @@ class SVGtest extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const String assetName = 'assets/images/panenin_maskot_fix.svg';
+    const String assetName = 'assets/images/home_green.svg';
     return Scaffold(
       appBar: AppBar(
         title: const Text("SVG Test"),
